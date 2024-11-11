@@ -4,7 +4,7 @@ A simple Todo application built with the MERN stack (MongoDB, Express.js, React,
 ## Quick Start
 ### Download Project
 You can download the complete project from Google Drive:
-[Download MERN Todo App](your-gdrive-link-here)
+[Download MERN Todo App](https://drive.google.com/file/d/1oSEkUwRge-p2Y5-tAZKH6qVNEBDmCmXY/view?usp=sharing)
 
 ### Download and Setup Instructions
 1. Download the zip file from the Google Drive link
@@ -101,4 +101,4 @@ mern-todo-app/
 
 ## Download Link
 If you encounter any issues with the GitHub repository, you can download the complete project from:
-[MERN Todo App Download]([(https://drive.google.com/file/d/1oSEkUwRge-p2Y5-tAZKH6qVNEBDmCmXY/view?usp=sharing)])
+[MERN Todo App Download](https://drive.google.com/file/d/1oSEkUwRge-p2Y5-tAZKH6qVNEBDmCmXY/view?usp=sharing)
